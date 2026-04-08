@@ -1,3 +1,3 @@
-zip -r output_filename.zip directory_name
-
-unzip filename.zip
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a05bf73ba2a11d9b44558a9f7baabee281e198fb95bee729a6d28ac9180d35f
+size 62
