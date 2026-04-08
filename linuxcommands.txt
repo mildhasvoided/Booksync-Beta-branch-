@@ -1,0 +1,3 @@
+zip -r output_filename.zip directory_name
+
+unzip filename.zip
